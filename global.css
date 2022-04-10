@@ -1,0 +1,19 @@
+@import "./reset-and-normalize.min.css";
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap');
+
+
+body {
+    font-family: 'Inter',
+    sans-serif;
+    font-size: 1.1rem;
+    font-weight: 300;
+    color: hsl(213, 29%, 15%);
+    background: rgb(251, 251, 251);
+    max-width: 100vw;
+    max-height: 100vh;
+    width: 100%;
+    height: 100%;
+    overflow-y: hidden;
+    line-height: 1.1;
+}
